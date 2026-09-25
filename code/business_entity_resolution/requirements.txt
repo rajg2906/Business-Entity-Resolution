@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.21
+scikit-learn>=1.0
+lightgbm>=4.0
+rapidfuzz>=3.0
+tqdm>=4.60
